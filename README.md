@@ -2,7 +2,7 @@
 
 This is an easy discord handler for people who does not use discord.ext for discord bots that is developed by Tim232.
 
-Example : 
+[Example](https://github.com/Tim232/MessageHandlerBot) : 
 
 main.py
 ```py
