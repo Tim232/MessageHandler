@@ -1,6 +1,6 @@
 # MessageHandler
 
-This is a discord handler for people who use discord.Client but want to use the bot like discord.ext that is developed by Tim232.
+This is an easy discord handler for people who does not use discord.ext for discord bots that is developed by Tim232.
 
 Example : 
 
