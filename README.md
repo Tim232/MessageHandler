@@ -1,6 +1,8 @@
 # MessageHandler
 
-This is an easy discord handler for people who does not use discord.ext for discord bots that is developed by Tim232.
+Easy discord handler for people who does not use discord.ext for discord bots.
+
+* LICENSE
 
 ## Download
 ```shell
