@@ -2,6 +2,12 @@
 
 This is an easy discord handler for people who does not use discord.ext for discord bots that is developed by Tim232.
 
+## Download
+```shell
+$ pip install messagehandler
+```
+
+## Use
 [Example](https://github.com/Tim232/MessageHandlerBot) : 
 
 main.py
@@ -39,3 +45,16 @@ startswith_key = ["!Test"]
 ```
 
 * The handler automatically generates `{prefix}help` command if client's `help_command` is `True`.
+
+## Contribute
+Find a bug and tell it on the Issue tab or to `! Tim23#9999` on discord
+
+You can also Pull a request
+
+
+## Log
+1.0.2 : Hotfix
+
+1.0.1 : Hotfix
+
+1.0.0 : First Release
